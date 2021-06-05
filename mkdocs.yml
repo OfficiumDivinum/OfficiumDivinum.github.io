@@ -21,6 +21,7 @@ nav:
   - The OfficiumDivinum Project: index.md
   - Philosophy: philosophy.md
   - Tools: tools.md
+  - Contributing: contributing.md
   - Acknowledgements: acknowledgements.md
 
 markdown_extensions:
