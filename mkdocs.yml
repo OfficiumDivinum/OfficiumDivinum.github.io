@@ -1,4 +1,5 @@
 site_name: OfficiumDivinum
+repo_url: https://github.com/OfficiumDivinum/OfficiumDivinum.github.io/tree/src
 
 plugins:
   - search
